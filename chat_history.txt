@@ -1,0 +1,16 @@
+You: hi 
+Bot: Sorry, I don't know the answer.
+You: hello
+Bot: Hello! Nice to meet you.
+You: how are you
+Bot: I am fine. Thanks for asking.
+You: what is your name 
+Bot: Sorry, I don't know the answer.
+You: what is python
+Bot: Python is a popular programming language.
+You: who created you 
+Bot: Sorry, I don't know the answer.
+You: bye
+Bot: Goodbye! Have a great day.
+You : what is python
+You : what is power bi
